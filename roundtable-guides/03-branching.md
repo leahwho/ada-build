@@ -5,7 +5,7 @@ Today's round table will focus on reviewing the [lesson on branching](XXX).
 ## Relational Operators
 
 1. Describe the difference between `=` and `==`.
-1. What is the significance of relational operators following below mathematical operators in the precedence hierarchy?
+1. Why is it important to remember that relational operators are evaluated after mathmatical operators in the precedence hierarchy?
 
 
 ## Conditionals
